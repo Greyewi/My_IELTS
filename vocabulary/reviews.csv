@@ -1,0 +1,2 @@
+date,word_id,mode,response,score,assisted,work_file,notes
+2026-10-16,v0003,production,"I was misinformed about pedagogical universal, because I though that there are a lot of girls, but my group had only boys.",2,no,units/01-urban-and-rural-life/reading/2026-10-16-recap-attempt1.md,Target phrase supplied in prompt; no definition or model before response; target construction correct despite other errors. No extra help requested; compliance with no-notes instruction not separately confirmed.
